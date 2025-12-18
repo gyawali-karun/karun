@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Full Time Full Stack Engineer.<br>👨‍💻 All of my projects are available at github.com/karun-rumsan<br>💬 Ask me about react , redux ,reduxtoolkit, rtk-query, nest, react-query, node, zustand
+🔭 I’m currently working as Full Time Full Stack Engineer.<br>👨‍💻 All of my projects are available at github.com/gyawali-karun <br>💬 Ask me about react , redux ,reduxtoolkit, rtk-query, nest, react-query, node, zustand
 
 
 ## 🌐 Socials:
